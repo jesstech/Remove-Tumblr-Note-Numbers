@@ -1,0 +1,7 @@
+#posts .post .post_controls a.reblog_count:after {
+   color: #ffffff;
+   content: "notes";
+}
+#posts .post .post_controls a.reblog_count * {
+   display: none !important;
+}
