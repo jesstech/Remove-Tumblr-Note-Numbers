@@ -45,7 +45,7 @@
 		</dict>
 	</dict>
 	<key>Update Manifest URL</key>
-	<string>https://github.com/jesstech/Remove-Tumblr-Note-Numbers/raw/master/safari/update-manifest.xml</string>
+	<string>https://github.com/jesstech/Remove-Tumblr-Note-Numbers/raw/master/safari/update-manifest.plist</string>
 	<key>Website</key>
 	<string>http://rooshoes.tumblr.com</string>
 </dict>
