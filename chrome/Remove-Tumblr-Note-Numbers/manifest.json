@@ -1,6 +1,6 @@
 {
    "name": "Remove Tumblr Note Numbers",
-   "version": "1.0",
+   "version": "1.1",
    "manifest_version": 2,
    "description": "Hides the note count from posts on your dashboard.",
    "update_url": "https://github.com/jesstech/Remove-Tumblr-Note-Numbers/raw/master/chrome/update-manifest.xml",

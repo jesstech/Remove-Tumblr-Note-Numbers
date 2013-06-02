@@ -1,7 +1,6 @@
-#posts .post .post_controls a.reblog_count:after {
-   color: #ffffff;
-   content: "notes";
+#posts .post:not(.is_mine) .post_notes_label:after {
+   content: "view notes";
 }
-#posts .post .post_controls a.reblog_count * {
+#posts .post:not(.is_mine) .post_notes_label * {
    display: none !important;
 }
