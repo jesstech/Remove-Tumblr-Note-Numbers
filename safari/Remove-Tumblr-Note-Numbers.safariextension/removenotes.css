@@ -1,6 +1,13 @@
-#posts .post:not(.is_mine) .post_notes_label:after {
-   content: "view notes";
+#posts .post:not(.is_mine) .post_notes .note_link_current {
+   position: relative;
+   width: 3em;
+   text-indent: 100%;
+   white-space: nowrap;
+   overflow: hidden;
 }
-#posts .post:not(.is_mine) .post_notes_label * {
-   display: none !important;
+#posts .post:not(.is_mine) .post_notes .note_link_current:after {
+   position: absolute;
+   top: 0; left: 0;
+   text-indent: 0;
+   content: "notes";
 }
